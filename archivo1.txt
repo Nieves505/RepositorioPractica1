@@ -1,1 +1,1 @@
-Este es el contenido del archivo 1 - Version 2
+Texto modificado en archivo1 desde la rama NuevaFuncionalidad
